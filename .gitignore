@@ -1,0 +1,31 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+astra_backend/astra.db
+astra_backend/.env
+astra_backend/uploads/
+
+# IDEs
+.vscode/
+.idea/
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Flutter (though astra/ has its own .gitignore, it's good to have a catch-all for build artifacts if they leak)
+**/build/
+**/.dart_tool/
+**/pubspec.lock
+
+# OS Files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+fastapi==0.123.5
+uvicorn==0.38.0
+python-multipart==0.0.20
+sentence-transformers==2.2.2
+faiss-cpu==1.13.0
+PyMuPDF==1.26.6
+numpy==1.26.2
+requests==2.31.0
+httpx==0.26.1
