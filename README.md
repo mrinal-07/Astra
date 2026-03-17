@@ -56,7 +56,7 @@ Astra is a powerful, offline-first AI assistant and productivity suite. It combi
    ```bash
    pip install -r requirements.txt
    ```
-4. Create a `.env` file and add your API keys:
+4. Create a  `.env` file and add your API keys:
    ```env
    GEMINI_API_KEY=your_key_here
    ```
